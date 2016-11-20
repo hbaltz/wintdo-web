@@ -1,8 +1,21 @@
+img {
+    width: 100%;
+    height: auto;
+}
+
 .jumbotron{
 	margin-top:5%;
 }
 
 .logo{
-	max-height: 42px;
+	max-height: 48px;
 	width: auto;
+}
+
+.jumbotron .text-wintdo{
+	font-size : 0.9em;
+}
+
+.jumbotron .text-muted{
+	font-size : 1.2em;
 }
