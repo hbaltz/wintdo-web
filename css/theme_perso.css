@@ -6,3 +6,8 @@ img {
 .jumbotron{
 	margin-top:5%;
 }
+
+.logo{
+	max-height: 48px;
+	width: auto;
+}
